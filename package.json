@@ -10,7 +10,7 @@
     "deploy": "npx applications-sdk deploy"
   },
   "dependencies": {
-    "@normalframework/applications-sdk": "~0.1.75",
+    "@normalframework/applications-sdk": "~0.1.99",
     "typescript": "^5.0.2"
   },
   "author": "",
